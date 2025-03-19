@@ -16,3 +16,10 @@ To learn and improve problem-solving skills.
 
 # New Concepts learned + some interesting references
 * `Counter` Objects for Python: https://www.geeksforgeeks.org/python-counter-objects-elements/
+
+
+# Hard Problems table
+
+| Problem                                | My personal difficulty | Techniques and comments                              | Solution|
+| -------------------------------------- | ---------------------- | ---------------------------------------------------- | ---- |
+| 980. Unique Paths III | medium-hard | recursion + dfs + cache | [Python3](Hard/0980UniquePathsIII.py) |
