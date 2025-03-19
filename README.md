@@ -12,6 +12,7 @@ To learn and improve problem-solving skills.
 | 2025 | March | 16  | 2594. Minimum Time to Repair Cars     |  medium - hard                   | tricky binary search problem | [Python3](2025/March/016/2594_MinimumTimetoRepairCars.py) |
 | 2025 | March | 17  | 2206. Divide Array Into Equal Pairs     |  easy                  | hash or count, using Counter Built-in on python a special container data-type | [Python3](2025/March/017/2206_DivideArrayIntoEqualPairs.py) |
 | 2025 | March | 18  | 2401. Longest Nice Subarray     |  easy-medium                  | sliding window approach + bitwise operations | [Python3](2025/March/018/2401LongestNiceSubarray.py) |
+| 2025 | March | 19  | 3191. Minimum Operations to Make Binary Array Elements Equal to One I     |  easy                  | simulation | [Python3](2025/March/019/3191_MinimumOperationstoMakeBinaryArrayElementsEqualtoOneI.py) |
 
 # New Concepts learned + some interesting references
 * `Counter` Objects for Python: https://www.geeksforgeeks.org/python-counter-objects-elements/
