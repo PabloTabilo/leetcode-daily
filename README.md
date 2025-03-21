@@ -14,6 +14,7 @@ To learn and improve problem-solving skills.
 | 2025 | March | 18  | 2401. Longest Nice Subarray     |  easy-medium                  | sliding window approach + bitwise operations | [Python3](2025/March/018/2401LongestNiceSubarray.py) |
 | 2025 | March | 19  | 3191. Minimum Operations to Make Binary Array Elements Equal to One I     |  easy                  | simulation | [Python3](2025/March/019/3191_MinimumOperationstoMakeBinaryArrayElementsEqualtoOneI.py) |
 | 2025 | March | 20  | 3108. Minimum Cost Walk in Weighted Graph     |  hard                  | you need too much concepts for this problem, in this case is DSU | [Python3](2025/March/020/3108_MinimumCostWalkinWeightedGraph.py) |
+| 2025 | March | 21  | 2115. Find All Possible Recipes from Given Supplies     |  medium-hard                  | topics: degree, topsort, BFS, dependencies | [Python3](2025/March/021/2115FindAllPossibleRecipesfromGivenSupplies.py) |
 
 # New Concepts learned + some interesting references
 * `Counter` Objects for Python: https://www.geeksforgeeks.org/python-counter-objects-elements/
