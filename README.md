@@ -28,3 +28,4 @@ To learn and improve problem-solving skills.
 | -------------------------------------- | ---------------------- | ---------------------------------------------------- | ---- |
 | 980. Unique Paths III | medium-hard | recursion + dfs + cache | [Python3](Hard/0980_UniquePathsIII.py) |
 | 2392. Build a Matrix With Conditions | Hard | detect cycles, queue, indegree, sort | [Python3](Hard/2392_BuildAMatrixWithConditions.py) |
+| 1402. Reducing Dishes | medium | dp or prefix sum | [Python3](Hard/1402_ReducingDishes.py) |
