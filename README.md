@@ -16,6 +16,7 @@ To learn and improve problem-solving skills.
 | 2025 | March | 20  | 3108. Minimum Cost Walk in Weighted Graph     |  hard                  | you need too much concepts for this problem, in this case is DSU | [Python3](2025/March/020/3108_MinimumCostWalkinWeightedGraph.py) |
 | 2025 | March | 21  | 2115. Find All Possible Recipes from Given Supplies     |  medium-hard                  | topics: degree, topsort, BFS, dependencies | [Python3](2025/March/021/2115FindAllPossibleRecipesfromGivenSupplies.py) |
 | 2025 | March | 22  | 2685. Count the Number of Complete Components     |  medium                  | dfs, mark nodes, components | [Python3](2025/March/022/2685_CountTheNumberOfCompleteComponents.py) |
+| 2025 | March | 23  | 1976. Number of Ways to Arrive at Destination     |  Hard                  | dijkstra using heap + accumulator logic for get the ways | [Python3](2025/March/023/1976_NumberOfWaysToArriveAtDestination.py) |
 
 # New Concepts learned + some interesting references
 * `Counter` Objects for Python: https://www.geeksforgeeks.org/python-counter-objects-elements/
