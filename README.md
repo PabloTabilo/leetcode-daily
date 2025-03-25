@@ -18,6 +18,7 @@ To learn and improve problem-solving skills.
 | 2025 | March | 22  | 2685. Count the Number of Complete Components     |  medium                  | dfs, mark nodes, components | [Python3](2025/March/022/2685_CountTheNumberOfCompleteComponents.py) |
 | 2025 | March | 23  | 1976. Number of Ways to Arrive at Destination     |  Hard                  | dijkstra using heap + accumulator logic for get the ways | [Python3](2025/March/023/1976_NumberOfWaysToArriveAtDestination.py) |
 | 2025 | March | 24  | 3169. Count Days Without Meetings     |  easy-medium                  | arrays + sorting + logic for intervals | [Python3](2025/March/024/3169_CountDaysWithoutMeetings.py) |
+| 2025 | March | 25  | 3394. Check if Grid can be Cut into Sections     |  medium                  | intervals + sorting | [Python3](2025/March/025/3394_CheckIfGridCanBeCutIntoSections.py) |
 
 # New Concepts learned + some interesting references
 * `Counter` Objects for Python: https://www.geeksforgeeks.org/python-counter-objects-elements/
