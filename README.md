@@ -1,4 +1,4 @@
-# Leetcode Daily
+# Leetcode March Challenge
 Solutions for LeetCode problems using different languages.
 
 ## What's the purpose?
@@ -21,6 +21,7 @@ To learn and improve problem-solving skills.
 | 2025 | March | 25  | 3394. Check if Grid can be Cut into Sections     |  medium| intervals + sorting | [Python3](2025/March/025/3394_CheckIfGridCanBeCutIntoSections.py) |
 | 2025 | March | 26  | 2033. Minimum Operations to Make a Uni-Value Grid     |  medium| sorting + median other approach sorting + prefix and sufix sum | [Python3](2025/March/026/033_MinimumOperationsToMakeAUni-ValueGrid-median.py) |
 | 2025 | March | 27  | 2780. Minimum Index of a Valid Split|  medium| prefix and suffix | [Python3](2025/March/027/2780_MinimumIndexOfAValidSplit.py) |
+| 2025 | March | 28  | 2503. Maximum Number of Points From Grid Queries|  Hard| sorting + bfs or min_heap + prefixSum | [Python3](2025/March/028/2503_MaximumNumberOfPointsFromGridQueries.py) |
 
 # New Concepts learned + some interesting references
 * `Counter` Objects for Python: https://www.geeksforgeeks.org/python-counter-objects-elements/
@@ -33,3 +34,4 @@ To learn and improve problem-solving skills.
 | 980. Unique Paths III | medium-hard | recursion + dfs + cache | [Python3](Hard/0980_UniquePathsIII.py) |
 | 2392. Build a Matrix With Conditions | Hard | detect cycles, queue, indegree, sort | [Python3](Hard/2392_BuildAMatrixWithConditions.py) |
 | 1402. Reducing Dishes | medium | dp or prefix sum | [Python3](Hard/1402_ReducingDishes.py) |
+| 2503. Maximum Number of Points From Grid Queries|  Hard| sorting + bfs or min_heap + prefixSum | [Python3](Hard/2503_MaximumNumberOfPointsFromGridQueries.py) |
