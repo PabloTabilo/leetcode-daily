@@ -29,6 +29,7 @@ To learn and improve problem-solving skills.
 | 2025 | March | 27  | 2780. Minimum Index of a Valid Split|  medium| prefix and suffix | [Python3](2025/March/027/2780_MinimumIndexOfAValidSplit.py) |
 | 2025 | March | 28  | 2503. Maximum Number of Points From Grid Queries|  Hard| sorting + bfs or min_heap + prefixSum | [Python3](2025/March/028/2503_MaximumNumberOfPointsFromGridQueries.py) |
 | 2025 | March | 29  | 2818. Apply Operations to Maximize Score|  VERY Hard| Monotonic Stack + get primes factors (sieve) + modular exponentiation + min heap | [Python3](2025/March/029/2818_ApplyOperationsToMaximizeScore.py) |
+| 2025 | March | 30  | 763. Partition Labels| easy-medium | sliding window | [Python3](2025/March/030/763_PartitionLabels.py) |
 
 # New Concepts learned + some interesting references
 * `Counter` Objects for Python: https://www.geeksforgeeks.org/python-counter-objects-elements/
@@ -43,3 +44,4 @@ To learn and improve problem-solving skills.
 | 1402. Reducing Dishes | medium | dp or prefix sum | [Python3](Hard/1402_ReducingDishes.py) |
 | 2503. Maximum Number of Points From Grid Queries|  Hard| sorting + bfs or min_heap + prefixSum | [Python3](Hard/2503_MaximumNumberOfPointsFromGridQueries.py) |
 | 2818. Apply Operations to Maximize Score|  VERY Hard| Monotonic Stack + get primes factors (sieve) + modular exponentiation + min heap | [Python3](2025/March/029/2818_ApplyOperationsToMaximizeScore.py) |
+|3500. Minimum Cost to Divide Array Into Subarrays|  VERY Hard| DP + prefix sum + convex hull trick for optimization of queries | [Python3](Hard/3500_MinimumCostToDivideArrayIntoSubarrays.py) |
