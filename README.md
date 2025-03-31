@@ -10,6 +10,8 @@ To learn and improve problem-solving skills.
 
 * https://leetcode.com/discuss/post/2347978/join-us-to-code-continuously-such-as-com-99h9/
 
+<img src="./resources/images/completed.PNG" width="700">
+
 | Year | Month | Day | Problem                                | My personal difficulty | Techniques and comments                              | Solution|
 | ---- | ----- | --- | -------------------------------------- | ---------------------- | ---------------------------------------------------- | ---- |
 | 2025 | March | 13  | 3356. Zero Array Transformation II     | Hard| difference array + binary search + lambda functions on Java | [Java](2025/March/013/3356_ZeroArrayTransformationII.java) |
@@ -30,6 +32,7 @@ To learn and improve problem-solving skills.
 | 2025 | March | 28  | 2503. Maximum Number of Points From Grid Queries|  Hard| sorting + bfs or min_heap + prefixSum | [Python3](2025/March/028/2503_MaximumNumberOfPointsFromGridQueries.py) |
 | 2025 | March | 29  | 2818. Apply Operations to Maximize Score|  VERY Hard| Monotonic Stack + get primes factors (sieve) + modular exponentiation + min heap | [Python3](2025/March/029/2818_ApplyOperationsToMaximizeScore.py) |
 | 2025 | March | 30  | 763. Partition Labels| easy-medium | sliding window | [Python3](2025/March/030/763_PartitionLabels.py) |
+| 2025 | March | 31  | 2551. Put Marbles in Bags| Hard | need to think how build the solution using formulas + sorting or PQ (heap) | [Python3](2025/March/031/2551_PutMarblesinBags.py) |
 
 # New Concepts learned + some interesting references
 * `Counter` Objects for Python: https://www.geeksforgeeks.org/python-counter-objects-elements/
@@ -43,5 +46,6 @@ To learn and improve problem-solving skills.
 | 2392. Build a Matrix With Conditions | Hard | detect cycles, queue, indegree, sort | [Python3](Hard/2392_BuildAMatrixWithConditions.py) |
 | 1402. Reducing Dishes | medium | dp or prefix sum | [Python3](Hard/1402_ReducingDishes.py) |
 | 2503. Maximum Number of Points From Grid Queries|  Hard| sorting + bfs or min_heap + prefixSum | [Python3](Hard/2503_MaximumNumberOfPointsFromGridQueries.py) |
+| 2551. Put Marbles in Bags| Hard | need to think how build the solution using formulas + sorting or PQ (heap) | [Python3](2025/March/031/2551_PutMarblesinBags.py) |
 | 2818. Apply Operations to Maximize Score|  VERY Hard| Monotonic Stack + get primes factors (sieve) + modular exponentiation + min heap | [Python3](2025/March/029/2818_ApplyOperationsToMaximizeScore.py) |
 |3500. Minimum Cost to Divide Array Into Subarrays|  VERY Hard| DP + prefix sum + convex hull trick for optimization of queries | [Python3](Hard/3500_MinimumCostToDivideArrayIntoSubarrays.py) |
