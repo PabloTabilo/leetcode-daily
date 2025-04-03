@@ -42,6 +42,7 @@ To learn and improve problem-solving skills.
 
 | Problem                                | My personal difficulty | Techniques and comments                              | Solution|
 | -------------------------------------- | ---------------------- | ---------------------------------------------------- | ---- |
+| 140. Word Break II | Hard | `struct Trie` | [cpp](Hard/0140_WordBreakII.cpp) |
 | 732. My Calendar III | easy-medium | intervals + use some util structure for maintain the order, on my case i use `multiset<pair<int, int>>` | [cpp](Hard/0732_MyCalendarIII.cpp) |
 | 980. Unique Paths III | medium-hard | recursion + dfs + cache | [Python3](Hard/0980_UniquePathsIII.py) |
 | 2392. Build a Matrix With Conditions | Hard | detect cycles, queue, indegree, sort | [Python3](Hard/2392_BuildAMatrixWithConditions.py) |
