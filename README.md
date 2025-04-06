@@ -40,18 +40,22 @@ To learn and improve problem-solving skills.
 
 # Hard Problems table
 
-| Problem                                | My personal difficulty | Techniques and comments                              | Solution|
-| -------------------------------------- | ---------------------- | ---------------------------------------------------- | ---- |
-| 140. Word Break II | Hard | `struct Trie` | [cpp](Hard/0140_WordBreakII.cpp) |
-| 732. My Calendar III | easy-medium | intervals + use some util structure for maintain the order, on my case i use `multiset<pair<int, int>>` | [cpp](Hard/0732_MyCalendarIII.cpp) |
-| 980. Unique Paths III | medium-hard | recursion + dfs + cache | [Python3](Hard/0980_UniquePathsIII.py) |
-| 2392. Build a Matrix With Conditions | Hard | detect cycles, queue, indegree, sort | [Python3](Hard/2392_BuildAMatrixWithConditions.py) |
-| 1402. Reducing Dishes | medium | dp or prefix sum | [Python3](Hard/1402_ReducingDishes.py) |
-| 1463. Cherry Pickup II | medium-hard | dp or bfs + relaxation approach | [Python3 DP](Hard/1463_CherryPickupII_dp.py), [Python3 BFS](Hard/1463_CherryPickupII_bfs.py)  |
-| 2503. Maximum Number of Points From Grid Queries|  Hard| sorting + bfs or min_heap + prefixSum | [Python3](Hard/2503_MaximumNumberOfPointsFromGridQueries.py) |
-| 2551. Put Marbles in Bags| Hard | need to think how build the solution using formulas + sorting or PQ (heap) | [Python3](2025/March/031/2551_PutMarblesinBags.py) |
-| 2818. Apply Operations to Maximize Score|  VERY Hard| Monotonic Stack + get primes factors (sieve) + modular exponentiation + min heap | [Python3](2025/March/029/2818_ApplyOperationsToMaximizeScore.py) |
-|3500. Minimum Cost to Divide Array Into Subarrays|  VERY Hard| DP + prefix sum + convex hull trick for optimization of queries | [Python3](Hard/3500_MinimumCostToDivideArrayIntoSubarrays.py) |
+| Problem                                | My personal difficulty | Techniques and comments                              | Solution| Time Complexity | Space Complexity |
+| -------------------------------------- | ---------------------- | ---------------------------------------------------- | ---- | ---- | ---- |
+| 65. Valid Number | Hard | `DFA` or Deterministic Finite Automata for regexp | [Python3](Hard/0065_ValidNumber.py) | $$O(n)$$ Scan the characters of the `string` | $$O(1)$$ The size of the DFA, in this case is constant |
+| 140. Word Break II | Hard | `struct Trie` | [cpp](Hard/0140_WordBreakII.cpp) | | |
+| 732. My Calendar III | easy-medium | intervals + use some util structure for maintain the order, on my case i use `multiset<pair<int, int>>` | [cpp](Hard/0732_MyCalendarIII.cpp) | | |
+| 980. Unique Paths III | medium-hard | recursion + dfs + cache | [Python3](Hard/0980_UniquePathsIII.py) | | |
+| 2392. Build a Matrix With Conditions | Hard | detect cycles, queue, indegree, sort | [Python3](Hard/2392_BuildAMatrixWithConditions.py) | | |
+| 1402. Reducing Dishes | medium | dp or prefix sum | [Python3](Hard/1402_ReducingDishes.py) | | |
+| 1463. Cherry Pickup II | medium-hard | dp or bfs + relaxation approach | [Python3 DP](Hard/1463_CherryPickupII_dp.py), [Python3 BFS](Hard/1463_CherryPickupII_bfs.py)  | | |
+| 2503. Maximum Number of Points From Grid Queries|  Hard| sorting + bfs or min_heap + prefixSum | [Python3](Hard/2503_MaximumNumberOfPointsFromGridQueries.py) | | |
+| 2551. Put Marbles in Bags| Hard | need to think how build the solution using formulas + sorting or PQ (heap) | [Python3](2025/March/031/2551_PutMarblesinBags.py) | | |
+| 2818. Apply Operations to Maximize Score|  VERY Hard| Monotonic Stack + get primes factors (sieve) + modular exponentiation + min heap | [Python3](2025/March/029/2818_ApplyOperationsToMaximizeScore.py) | | |
+|3500. Minimum Cost to Divide Array Into Subarrays|  VERY Hard| DP + prefix sum + convex hull trick for optimization of queries | [Python3](Hard/3500_MinimumCostToDivideArrayIntoSubarrays.py) | | |
+
+## My DFA for Problem 65.Valid Number
+<img src="./resources/images/DFA_65_problem.PNG" width="700">
 
 # Useful medium level problems
 | Problem                                | My personal difficulty | Techniques and comments                              | Solution| Time Complexity | Space Complexity |
