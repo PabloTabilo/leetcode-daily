@@ -56,5 +56,5 @@ To learn and improve problem-solving skills.
 # Useful medium level problems
 | Problem                                | My personal difficulty | Techniques and comments                              | Solution| Time Complexity | Space Complexity |
 | -------------------------------------- | ---------------------- | ---------------------------------------------------- | ---- | ---- | ---- |
-| 1123. Lowest Common Ancestor of Deepest Leaves | medium | `euler tour` | [Python3](medium/1123_LowestCommonAncestorOfDeepestLeaves.py) | $$ O(V)$$ Must loop over all the tree for find the more deepest nodes | $$O(V)$$ where $V$ are number of vertex, this storage the euler tour |
+| 1123. Lowest Common Ancestor of Deepest Leaves | medium | `euler tour` | [Python3](medium/1123_LowestCommonAncestorOfDeepestLeaves.py) | $$O(V)$$ Must loop over all the tree for find the more deepest nodes | $$O(V)$$ where $V$ are number of vertex, this storage the euler tour |
 | 368. Largest Divisible Subset | medium-hard | `dp` or `LIS` | [cpp](medium/1123_LowestCommonAncestorOfDeepestLeaves.py) | $$O(n^2)$$ the solution use previous path for get the best answer, but must iterate the inmediate neighbours  | $$O(n^2)$$ for build the graph, on worst case each node has a reference to each other|
