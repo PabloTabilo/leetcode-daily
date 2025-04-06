@@ -52,3 +52,8 @@ To learn and improve problem-solving skills.
 | 2551. Put Marbles in Bags| Hard | need to think how build the solution using formulas + sorting or PQ (heap) | [Python3](2025/March/031/2551_PutMarblesinBags.py) |
 | 2818. Apply Operations to Maximize Score|  VERY Hard| Monotonic Stack + get primes factors (sieve) + modular exponentiation + min heap | [Python3](2025/March/029/2818_ApplyOperationsToMaximizeScore.py) |
 |3500. Minimum Cost to Divide Array Into Subarrays|  VERY Hard| DP + prefix sum + convex hull trick for optimization of queries | [Python3](Hard/3500_MinimumCostToDivideArrayIntoSubarrays.py) |
+
+# Useful medium level problems
+| Problem                                | My personal difficulty | Techniques and comments                              | Solution|
+| -------------------------------------- | ---------------------- | ---------------------------------------------------- | ---- |
+| 1123. Lowest Common Ancestor of Deepest Leaves | medium | `euler tour` | [Python3](medium/1123_LowestCommonAncestorOfDeepestLeaves.py) |
